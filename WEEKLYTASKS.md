@@ -1,4 +1,7 @@
 # \[Music Curation And Analytics\]
+
+# \[Week 1 Tasks\]
+
 \[Task 2. I have decided to base my project off of the discography of Sabrina Carpenter, I have yet to decide on which songs in particular to use as I will need to be sure I can find notated versions
 of all the songs I plan on using.\]
 
