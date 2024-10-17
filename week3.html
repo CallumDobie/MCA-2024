@@ -25,7 +25,21 @@
 <body>
     <div class="box">
     <div class="header"><h1>Week 3</h1>
-        <p>[Insert your response to task 2 here.]</p></div>
+        <p>Overall, in a direct comparison, MEI seems to be more flexible in terms of what it can accomplish,
+        whereas MusicXML is more strict. However, the strictness of MusicXML means that it is more consistent, and
+        the flexibility of MEI can be too complex for non-professionals. For example:</p>
+        <ol>
+            <li>Articulations - In MusicXML articulations are directly integrated with their parent, notations. It also contains
+            elements such as staccato, accent and fermata. Notations group all performance-related instructions. In MEI, articulations also
+            include the elements fermata and staccato. However, it is more flexible and is not tied to notations as
+            MusicXML is; it can be represented as a separate entity.</li>
+            <li>Clefs - Again, MusicXML is more rigid. Clefs are tied to their parent, attributes. This means it is tied directly to 
+            the measure. Clefs in MEI are part of the staffDef element meaning it defines staves as a whole instead
+            of individual measures.</li>
+            <li> - Ties in MEI are able to span across staves as they are tied to their parent, note, using unique IDs,
+            startid and endid. MusicXML is also tied to note, but it is once again more rigid. It's behaviours include
+            start, stop and continue. Without the use of unique IDs that are in MEI, it means that they are more limited.</li>
+        </ol></div>
     <div id="app">Verovio is loading...</div>
     <script type="module">
         import 'https://www.verovio.org/javascript/app/verovio-app.js';
