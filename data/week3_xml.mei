@@ -5,10 +5,19 @@
    <meiHead xml:id="m1hqii55">
       <fileDesc xml:id="fv6g1d6">
          <titleStmt xml:id="tfb0r49">
-            <title />
-            <respStmt />
+            <title>Bed Chem</title>
+            <composer>Ian Kirkpatrick</composer>
+            <respStmt>
+             <persName role='artist'>Sabrina Carpenter</persName>
+            </respStmt>
          </titleStmt>
+         <editionStmt>
+          <edition>
+           <date>2024</date>
+          </edition>
+         </editionStmt>
          <pubStmt xml:id="pu11l8t">
+            <publisher>Island</publisher>
             <date isodate="2024-10-17" type="encoding-date">2024-10-17</date>
          </pubStmt>
       </fileDesc>
