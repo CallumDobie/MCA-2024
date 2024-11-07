@@ -20,9 +20,13 @@
             <publisher>Island</publisher>
             <date isodate="2024-10-17" type="encoding-date">2024-10-17</date>
             <availability>
-               <useRestrict>https://creativecommons.org/licenses/by/4.0/</useRestrict>
+              <useRestrict auth.uri="https://creativecommons.org/licenses/by/4.0/" auth="Creative Commons">CC BY 4.O</useRestrict>
             </availability>
          </pubStmt>
+         <notesStmt>
+         <annot>Genre:</annot>
+            <annot>Pop</annot>
+         </notesStmt>
       </fileDesc>
       <encodingDesc xml:id="e11ayxsu">
          <appInfo xml:id="a1g11ak0">
