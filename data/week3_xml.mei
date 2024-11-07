@@ -19,6 +19,9 @@
          <pubStmt xml:id="pu11l8t">
             <publisher>Island</publisher>
             <date isodate="2024-10-17" type="encoding-date">2024-10-17</date>
+            <availability>
+               <useRestrict>https://creativecommons.org/licenses/by/4.0/</useRestrict>
+            </availability>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="e11ayxsu">
